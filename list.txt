@@ -1,0 +1,61 @@
+# Google Ads
+0.0.0.0 afs.googlesyndication.com
+
+# DoubleClick
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+
+# AdColony
+0.0.0.0 ads30.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 wd.adcolony.com
+
+# Media.net
+0.0.0.0 media.net
+
+# Google Analytics
+0.0.0.0 google-analytics.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 analytics.google.com
+0.0.0.0 ssl.google-analytics.com
+
+# Hotjar
+0.0.0.0 adm.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 script.hotjar.com
+0.0.0.0 surveys.hotjar.com
+
+# Mouseflow
+0.0.0.0 mouseflow.com
+0.0.0.0 api.mouseflow.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
+
+# Freshworks
+0.0.0.0 freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+
+# Stats WP (WordPress Stats)
+0.0.0.0 stats.wp.com
+
+# Lucky Orange
+0.0.0.0 luckyorange.com
+0.0.0.0 upload.luckyorange.net
+0.0.0.0 cs.luckyorange.net
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+0.0.0.0 settings.luckyorange.net
+
+# Bugsnag
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+
+# Sentry
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
