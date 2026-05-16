@@ -51,10 +51,11 @@
 0.0.0.0 settings.luckyorange.net
 
 # Bugsnag
-0.0.0.0 sessions.bugsnag.com
-0.0.0.0 notify.bugsnag.com
-0.0.0.0 api.bugsnag.com
-0.0.0.0 app.bugsnag.com
+# 0.0.0.0 sessions.bugsnag.com
+# 0.0.0.0 notify.bugsnag.com
+# 0.0.0.0 api.bugsnag.com
+# 0.0.0.0 app.bugsnag.com
+# commented out bugsnag cus of tailscale
 
 # Sentry
 0.0.0.0 browser.sentry-cdn.com
